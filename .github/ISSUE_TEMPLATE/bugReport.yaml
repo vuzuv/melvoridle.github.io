@@ -70,6 +70,8 @@ body:
       options:
         - v1.0.1
         - v1.0.2
+        - v1.0.3
+
     validations:
       required: true
   - type: input
